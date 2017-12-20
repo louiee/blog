@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Louiee Blog</title>
+<link rel="alternate" href="http://yourblog.example.com/" />
+<author>louiee Octo</author>
+<generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.8">Perl Riji</generator>
+<id>tag:yourblog.example.com,2017-12-20:</id>
+<updated>2017-12-20T14:22:18+09:00</updated>
+<entry>
+<title type="text">二つ目の記事</title>
+<link href="http://yourblog.example.com/entry/2017-12-20-01.html" />
+<author>
+<name>louiee</name>
+</author>
+<content type="html">
+<![CDATA[
+]]></content>
+<id>tag:yourblog.example.com,2017-12-20:entry-2017-12-20-01.html</id>
+<published>2017-12-20T14:22:18+09:00</published>
+<updated>2017-12-20T14:22:18+09:00</updated>
+</entry>
+<entry>
+<title type="text">Blog 開設</title>
+<link href="http://yourblog.example.com/entry/start.html" />
+<author>
+<name>louiee</name>
+</author>
+<content type="html">
+<![CDATA[<p>%EDITOR article/entry/start.md
+%cat article/entry/start.md</p>
+
+<h1>Blog 開設</h1>
+
+<p>RijiをつかってBlogを開設しました</p>
+]]></content>
+<id>tag:yourblog.example.com,2017-12-20:entry-start.html</id>
+<published>2017-12-20T14:22:18+09:00</published>
+<updated>2017-12-20T14:22:18+09:00</updated>
+</entry>
+</feed>
